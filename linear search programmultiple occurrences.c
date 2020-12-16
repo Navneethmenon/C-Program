@@ -3,7 +3,7 @@
 int main()
 {
    int array[100], search, c, n, count = 0;
-   
+    printf("\nName : Navneeth Menon");
    printf("Enter number of elements in array\n");
    scanf("%d", &n);
    
