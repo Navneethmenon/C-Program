@@ -8,7 +8,7 @@ int main()
    //taking user input
    do
    {
-   printf("\nName : Navneeth Menon" "\nProgram : BCA CTIS");
+   printf("\nName : Navneeth Menon");
    
    printf("\nEnter the First Number : ");
    scanf("%f",&num1);
