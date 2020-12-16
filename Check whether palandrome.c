@@ -5,7 +5,7 @@ int main(){
     char string1[20];
     int i, length;
     int flag = 0;
-    printf("\nName : Navneeth Menon" "\nProgram : BCA CTIS");
+    printf("\nName : Navneeth Menon");
     printf("\nEnter a string:");
     scanf("%s", string1);
     
